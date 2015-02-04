@@ -1,1 +1,0 @@
-# sk_app.ipa
